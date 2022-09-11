@@ -13,10 +13,12 @@ ProductTag.init(
       autoIncrement: true
     },
     product_id: {
+      type: DataTypes.INTEGER,
       references: "product",
       key: "id"
     },
     tag_id: {
+      type: DataTypes.INTEGER,
       references: "tag",
       key: "id"
     }
