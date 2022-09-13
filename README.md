@@ -37,3 +37,12 @@ now i need to finish each route in
 *product
 *tags
 ```
+
+
+
+### Example Use
+
+
+https://user-images.githubusercontent.com/31641912/189808716-caf6d14c-c43f-4635-84e1-7672705f9aee.mp4
+
+
