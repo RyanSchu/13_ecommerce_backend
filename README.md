@@ -43,6 +43,6 @@ now i need to finish each route in
 ### Example Use
 
 
-https://user-images.githubusercontent.com/31641912/189808716-caf6d14c-c43f-4635-84e1-7672705f9aee.mp4
 
 
+[zoom_0.mp4.zip](https://github.com/RyanSchu/13_ecommerce_backend/files/9553534/zoom_0.mp4.zip)
